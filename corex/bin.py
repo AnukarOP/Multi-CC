@@ -7,5 +7,5 @@ def bin_generator(bin , round):
     req = requests.post(url , cookies=cookie , headers=header,data=payload).text
     data = json.loads(req)
     for i in data['data']:
-        open("bin_generated.txt","a").write(str(i['card_number']) + "|" + str(i['expiration_date']) + '|' + str(i['cvv']) +        || Script by @AnukarOP + "\n")
+        open("bin_generated.txt","a").write(str(i['card_number']) + "|" + str(i['expiration_date']) + '|' + str(i['cvv']) + "|" str(i['Script by @AnukarOP']) + "\n")
         
