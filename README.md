@@ -1,6 +1,6 @@
 # Multi-CC
 [-] Tool by [AnukarOP](https://github.com/AnukarOP)
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/HKTBSzy/image.png" alt="image" border="0"></a>
+<a href="https://github.com/AnukarOP/Multi-CC"><img src="https://i.ibb.co/HKTBSzy/image.png" alt="image" border="0"></a>
 # Features
 > [&] Fast & easy 
 
