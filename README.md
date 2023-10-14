@@ -34,12 +34,18 @@ python3 cc.py
 ```
 
 # Installation-Windows
-### Download NodeJs Installer from [This Link](https://nodejs.org/en/)
+## Download NodeJs Installer from [This Link](https://nodejs.org/en/)
 
 ### Then Download This project as zip 
 
-### After That Open Cmd and go the Directory that you downloaded 
+### After That Open Cmd and then Go to the Directory that you have downloaded... 
 
-## run `python cc.py`
+### run `python cc.py`
+
+voilaa !! It worked 🥇
+
+Please Star this repo, If you really Love it 🚀
+
+## MADE WITH 💖 BY ANUKAROP
 
 
