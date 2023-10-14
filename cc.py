@@ -57,7 +57,7 @@ def genmcard():
     for i in range(1,10):
         card = data['creditCard'][i]
         f = open("generated_card.txt","a")
-        f.write("[-] Brand : %s\n[-] Card Number : %s\n[-] Bank : %s\n[-] Name : %s\n[-] Address : %s\n[-] Country : %s\n[-] Money Range : %s\n[-] CVV : %s\n[-] Expiry : %s\n[-] Pin : %s\n===================================%s\n[*] Script by @AnukarOP" % (card['IssuingNetwork'] , card['CardNumber'] , card['Bank'] , card['Name'] , card['Address'] , card['Country'] , card['MoneyRange'] , card['CVV'] , card['Expiry'] , card['Pin']))
+        f.write("[-] Brand : %s\n[-] Card Number : %s\n[-] Bank : %s\n[-] Name : %s\n[-] Address : %s\n[-] Country : %s\n[-] Money Range : %s\n[-] CVV : %s\n[-] Expiry : %s\n[-] Pin : %s\n===================================\n[*] Script by @AnukarOP" % (card['IssuingNetwork'] , card['CardNumber'] , card['Bank'] , card['Name'] , card['Address'] , card['Country'] , card['MoneyRange'] , card['CVV'] , card['Expiry'] , card['Pin']))
     return (gn + "[$] The operation has been success\n[+] Saved File as generated_card.txt || Script by @AnukarOP" + cv)
 
 def ccvalidator(number , type):
