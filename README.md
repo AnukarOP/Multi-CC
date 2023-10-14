@@ -1,5 +1,5 @@
 # Multi-CC
-[-] Tool by AnukarOP...
+[-] Tool by [AnukarOP](https://github.com/AnukarOP)
 # Features
 > [&] Fast & easy 
 
@@ -40,3 +40,5 @@ python3 cc.py
 ### After That Open Cmd and go the Directory that you downloaded 
 
 ## run `python cc.py`
+
+
