@@ -1,5 +1,5 @@
-# Fox CC
-[-] Black Fox CC Tools 
+# Multi-CC
+[-] Tool by AnukarOP...
 # Features
 > [&] Fast & easy 
 
@@ -23,7 +23,7 @@ apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 git clone https://github.com/AnukarOP/Multi-CC
 ```
 ```
-cd Fox-CC
+cd Multi-CC
 ```
 ```
 pip3 install -r requirements.txt
