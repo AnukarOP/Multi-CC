@@ -27,7 +27,7 @@ gg = colorama.Fore.LIGHTCYAN_EX
 
 
 def logo():
-    figlet = Figlet(font="standard").renderText("Fox CC")
+    figlet = Figlet(font="standard").renderText("Multi-CC")
     return (gn + figlet)
 print (logo())
 print (bl + "[-] Powered by Team HH [Hello Hackers] ")
