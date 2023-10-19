@@ -48,4 +48,8 @@ Please Star this repo, If you really Love it 🚀
 
 ## MADE WITH 💖 BY ANUKAROP
 
+<p>
+                                         <img src=https://visitor-badge.laobi.icu/badge?page_id=AnukarOP.readme />
+</p>
+
 
