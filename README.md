@@ -44,7 +44,7 @@ Contributions are what make the open source community such an amazing place to l
 ## Contact
 🚀 Telegram : [AnukarOP](telegram.me/AnukarOP)
 
-Project Link: [https://github.com/AnukarOP/Multi-CC](https://github.com/AnukarOP/Multi-CC)
+Repository Link: [https://github.com/AnukarOP/Multi-CC](https://github.com/AnukarOP/Multi-CC)
 
 <!-- Statistics -->  
 
