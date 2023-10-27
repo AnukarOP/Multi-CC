@@ -41,6 +41,8 @@ Contributions are what make the open source community such an amazing place to l
 1. Fork the Repository 🤝🏻
 2. Star the Repository⭐
 
+<a href="bitcoin:1LxJFtXxVPboq12eYLTXNGaZtM1Yu9Yo7">![Bitcoin Donate Button](https://www.drupal.org/files/project-images/bitcoindonate.png)</a> Donate Here 👉🏻`1LxJFtXxVPboq12eYLTXNGaZtM1Yu9Yo7`
+
 ## Contact
 🚀 Telegram : [AnukarOP](telegram.me/AnukarOP)
 
