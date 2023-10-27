@@ -1,7 +1,7 @@
 # Multi-CC
 [-] Tool by [AnukarOP](https://github.com/AnukarOP)
 <a href="https://github.com/AnukarOP/Multi-CC"><img src="https://i.ibb.co/HKTBSzy/image.png" alt="image" border="0"></a>
-# Features
+### Features
 > [&] Fast & easy 
 
 > [&] Generate a valid card
@@ -15,7 +15,7 @@
 > [&] Without limit & Free
 
 
-# Installation-Linux-Termux
+## **Installation in Terminal**
 
 ```
 apt-get update && apt-get upgrade && apt-get install git python3 nodejs
@@ -32,24 +32,28 @@ pip3 install -r requirements.txt
 ```
 python3 cc.py
 ```
-
-# Installation-Windows
-## Download NodeJs Installer from [This Link](https://nodejs.org/en/)
-
-### Then Download This project as zip 
-
-### After That Open Cmd and then Go to the Directory that you have downloaded... 
-
-### run `python cc.py`
-
 voilaa !! It worked 🥇
 
-Please Star this repo, If you really Love it 🚀
+## Contributing
 
-## MADE WITH 💖 BY ANUKAROP
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **Greatly Appreciated**.
+
+1. Fork the Repository 🤝🏻
+2. Star the Repository⭐
+
+## Contact
+🚀 Telegram : [AnukarOP](telegram.me/AnukarOP)
+
+Project Link: [https://github.com/AnukarOP/Multi-CC](https://github.com/AnukarOP/Multi-CC)
+
+<!-- Statistics -->  
 
 <p>
                                          <img src=https://visitor-badge.laobi.icu/badge?page_id=AnukarOP.readme />
 </p>
+
+
+`MADE WITH 💖 BY ANUKAROP`
+
 
 
