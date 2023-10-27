@@ -31,7 +31,7 @@ def logo():
     return (gn + figlet)
 print (logo())
 print (bl + "[-] Powered by Team HH [Hello Hackers] ")
-print (gn + "[+] Script By AnukarOP")
+print (gn + "[+] Made with 💖 By AnukarOP")
 print (cy + "[=] Multi-CC Tool Version : 1.0")
 
 opr = input (mag + "\n[x] 1) Generate single valid cc\n[x] 2) Generate multi valid cc (generate cc list)\n[x] 3) CC validator\n[x] 4) Generate Multi Bin Number \n\n[^] Please Enter an option :  ")
