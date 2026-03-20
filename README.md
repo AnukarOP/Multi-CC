@@ -1,6 +1,9 @@
 # Multi-CC
-[-] Tool by [AnukarOP](https://github.com/AnukarOP)
+[-] Tool by [AnukarOP](https://anukar.tech)
 <a href="https://github.com/AnukarOP/Multi-CC"><img src="https://i.ibb.co/HKTBSzy/image.png" alt="image" border="0"></a>
+
+<a href="https://github.com/AnukarOP"><img src="https://img.shields.io/github/followers/AnukarOP?label=Follow%20%40AnukarOP&style=social" alt="GitHub Follow"></a> <a href="https://github.com/AnukarOP/Multi-CC"><img src="https://img.shields.io/github/stars/AnukarOP/Multi-CC?style=social" alt="GitHub Stars"></a>
+
 ### Features
 > [&] Fast & easy 
 
@@ -43,10 +46,8 @@ Contributions are what make the open source community such an amazing place to l
 1. Fork the Repository 🤝🏻
 2. Star the Repository⭐
 
-<a href="bitcoin:1LxJFtXxVPboq12eYLTXNGaZtM1Yu9Yo7">![Bitcoin Donate Button](https://www.drupal.org/files/project-images/bitcoindonate.png)</a> Donate Here 👉🏻`1LxJFtXxVPboq12eYLTXNGaZtM1Yu9Yo7`
-
 ## Contact
-🚀 Telegram : [AnukarOP](telegram.me/AnukarOP)
+🚀 Telegram : [AnukarOP](https://telegram.me/AnukarOP)
 
 Repository Link: [https://github.com/AnukarOP/Multi-CC](https://github.com/AnukarOP/Multi-CC)
 
