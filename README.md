@@ -14,11 +14,13 @@
 
 > [&] Without limit & Free
 
+> [&] Works 100% Offline (No API Required)
+
 
 ## **Installation in Terminal**
 
 ```
-apt-get update && apt-get upgrade && apt-get install git python3 nodejs
+apt-get update && apt-get upgrade && apt-get install git python3
 ```
 ```
 git clone https://github.com/AnukarOP/Multi-CC
