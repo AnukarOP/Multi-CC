@@ -1,4 +1,2 @@
-bs4 
-requests 
 pyfiglet
 colorama
